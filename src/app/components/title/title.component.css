@@ -1,0 +1,19 @@
+.title__container {
+    color: white;
+}
+
+.title__container > h1 {
+    font-size: 100px;
+    font-weight: 100px;
+    letter-spacing: -7px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+}
+
+.title__container > hr {
+    width: 30%;
+    border: 2px solid white;
+    margin: 5px auto;
+}
